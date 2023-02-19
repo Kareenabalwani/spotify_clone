@@ -9,11 +9,11 @@ let gif= document.getElementById("gif");
 let masterSong=document.getElementById('masterSong');
 let songItems = Array.from(document.getElementsByClassName('songItems'));
 let songs=[
-    {songName:"Dholida- LoveYatri",filepath:"songs/1.mp3",coverPath:"covers/sc1.jpeg"},
-    {songName:"She move it like-Badshah",filepath:"songs/2.mp3",coverPath:"covers/sc2.jpeg"},
-    {songName:"Kuch Khass hai",filepath:"songs/3.mp3",coverPath:"covers/sc3.jpeg"},
-    {songName:"Rataan Lambiyaan-Shershah",filepath:"songs/4.mp3",coverPath:"covers/sc4.jpeg"},
-    {songName:"Har Fun Maula",filepath:"songs/5.mp3",coverPath:"covers/sc5.jpeg"},
+    {songName:"Billionera",filepath:"songs/1.mpeg",coverPath:"covers/sc1.jfif"},
+    {songName:"Illahi",filepath:"songs/2.mp3",coverPath:"covers/sc2.jfif"},
+    {songName:"Oh Ho Ho Ho(Remix)",filepath:"songs/3.mp3",coverPath:"covers/sc3.jfif"},
+    {songName:"De taali",filepath:"songs/4.mp3",coverPath:"covers/sc4.jfif"},
+    {songName:"Pasoori",filepath:"songs/5.mp3",coverPath:"covers/sc5.jfif"},
     
 ]
 
